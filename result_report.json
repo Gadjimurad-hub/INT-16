@@ -1,0 +1,44 @@
+{
+   "vulnerabilities": [
+      {
+         "name": "Content Security Policy (CSP) Header Not Set",
+         "count": "2"
+      },
+      {
+         "name": "Cross-Domain Misconfiguration",
+         "count": "14"
+      },
+      {
+         "name": "Missing Anti-clickjacking Header",
+         "count": "1"
+      },
+      {
+         "name": "Session ID in URL Rewrite",
+         "count": "3"
+      },
+      {
+         "name": "Cross-Domain JavaScript Source File Inclusion",
+         "count": "2"
+      },
+      {
+         "name": "Private IP Disclosure",
+         "count": "1"
+      },
+      {
+         "name": "Timestamp Disclosure - Unix",
+         "count": "5"
+      },
+      {
+         "name": "X-Content-Type-Options Header Missing",
+         "count": "3"
+      },
+      {
+         "name": "Information Disclosure - Suspicious Comments",
+         "count": "2"
+      },
+      {
+         "name": "Modern Web Application",
+         "count": "1"
+      }
+   ]
+}
